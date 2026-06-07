@@ -104,3 +104,34 @@ sudo crontab -e
 ```title:"Add the following cron job to shutdown everyday at 1 AM"
 0 1 * * * shutdown -h now
 ```
+
+### Shell Customizations
+
+Install Zsh
+```sh
+sudo apt install zsh
+```
+
+Set Zsh as default shell
+```
+chsh -s /bin/zsh
+```
+
+Customizations
+
+* https://ohmyz.sh/#install
+* https://github.com/romkatv/powerlevel10k#getting-started
+* https://github.com/romkatv/powerlevel10k#oh-my-zsh
+
+### Neovim + Tmux
+
+```sh
+sudo apt-get install neovim
+```
+
+```sh
+sudo apt install tmux
+```
+
+* https://neovim.io
+* https://github.com/tmux/tmux/wiki
