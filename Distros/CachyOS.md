@@ -1,3 +1,9 @@
+# CachyOS
+
+My personal guide to install CachyOS in an RoG Zephyrus G14 2020. Also applicable on my Desktop PC.
+
+Official website: https://cachyos.org
+
 ## 1. Preparation
 
 Download ISO
