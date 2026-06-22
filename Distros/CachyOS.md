@@ -94,3 +94,9 @@ flatpak install flathub net.waterfox.waterfox
 
 flatpak install flathub io.github.ungoogled_software.ungoogled_chromium
 ```
+
+### hyprland Essentials
+
+```
+hyprland hyprpaper waybar kitty hyprlauncher hyprpolkitagent xdg-desktop-portal-hyprland
+```
