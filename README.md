@@ -23,3 +23,5 @@ My personal guide in installing Linux.
 - [Arch Linux](./Distros/ArchLinux.md)
 - [Debian](./Distros/Debian.md)
 - [CachyOS](./Distros/CachyOS.md)
+- [NixOS](./Distros/NixOS.md)
+- 
