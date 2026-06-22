@@ -61,3 +61,30 @@ nano .config/fish/config.fish
 ```sh title:"Add bitwarden SSH sock"
 set -x SSH_AUTH_SOCK /home/$USER/.var/app/com.bitwarden.desktop/data/.bitwarden-ssh-agent.sock
 ```
+### pacman Installs
+
+```
+tailscale
+
+docker docker-compose vscodium neovim tmux
+
+veracrypt cryptomator keepassxc
+
+libreoffice-fresh libmythes
+
+flatpak
+```
+
+### flatpak Installs
+
+```
+flatpak install flathub com.bitwarden.desktop
+
+flatpak install flathub com.discordapp.Discord
+
+flatpak install flathub md.obsidian.Obsidian
+
+flatpak install flathub net.waterfox.waterfox
+
+flatpak install flathub io.github.ungoogled_software.ungoogled_chromium
+```
