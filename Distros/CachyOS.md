@@ -76,7 +76,7 @@ docker docker-compose vscodium neovim tmux
 
 veracrypt cryptomator keepassxc
 
-libreoffice-fresh libmythes
+libreoffice-fresh
 
 flatpak
 ```
@@ -99,4 +99,10 @@ flatpak install flathub io.github.ungoogled_software.ungoogled_chromium
 
 ```
 hyprland hyprpaper waybar kitty hyprlauncher hyprpolkitagent xdg-desktop-portal-hyprland
+```
+
+### Allow user to use docker commands
+
+```
+sudo usermod -aG docker username
 ```
