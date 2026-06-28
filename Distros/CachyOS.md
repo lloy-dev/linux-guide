@@ -72,7 +72,7 @@ set -x SSH_AUTH_SOCK /home/$USER/.var/app/com.bitwarden.desktop/data/.bitwarden-
 ```
 tailscale
 
-docker docker-compose vscodium neovim tmux
+docker docker-compose neovim tmux vscodium zed
 
 veracrypt cryptomator keepassxc
 
